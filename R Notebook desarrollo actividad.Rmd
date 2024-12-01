@@ -1,0 +1,85 @@
+---
+title: " Actividad 1 (Transformación y Exploración de Datos)"
+author: "Atonio"
+date: "2024-11-30"
+output: html_document
+---
+
+```{r}
+# Importar librerías
+library(readr)
+```
+
+```{r}
+# Importar librerías
+avocado_prices <- read_csv("data/avocado-updated-2020.csv",show_col_types = FALSE)
+View(avocado_prices)
+```
+
+```{r}
+summary(avocado_prices)
+```
+Analisis aaddada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
