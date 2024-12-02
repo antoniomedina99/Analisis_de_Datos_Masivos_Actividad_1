@@ -8,7 +8,7 @@ en Estados Unidos. Más concretamente, esta base está compuesta por un total de
 - Fecha (date). En frecuencia semanal desde inicios de 2015.
 - Precio por unidad (average_price).
 - Volumen de ventas (total_volume).
-- Código de producto (4046,42254770).
+- Código de producto (4046,4225,4770).
 - Formato de ventas (total_bags, small_bags,large_bags,xlarge_bags).
 - Tipo, orgánico o conventional (type)
 - Año (year)
